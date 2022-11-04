@@ -5,7 +5,7 @@ import java.util.ArrayList;
  *
  * @author Usuario
  */
-public class Ejercicos_Semana09 {
+public class Semana_9 {
 
     public static void main(String[] args) {
     

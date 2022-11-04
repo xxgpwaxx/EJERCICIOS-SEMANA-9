@@ -6,7 +6,7 @@ import java.util.List;
  *
  * @author Usuario
  */
-public class Ejercicio_01 {
+public class Ejercicio_1 {
     public static void main(String args[]){
         
         List<Persona> lis_persona = new ArrayList();
