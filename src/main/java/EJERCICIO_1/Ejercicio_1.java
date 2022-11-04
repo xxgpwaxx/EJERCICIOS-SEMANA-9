@@ -14,8 +14,8 @@ public class Ejercicio_1 {
         for (int i = 0; i < 10; i++){
             Persona per = new Persona();
             per.setCodigo(1);
-            per.setNombre("Wilber" + i);
-            per.setApellido("Quispe" + i);
+            per.setNombre("Andrihu" + i);
+            per.setApellido("Gaspar" + i);
             per.setEdad(25 + i);
             lis_persona.add(per);
         }
