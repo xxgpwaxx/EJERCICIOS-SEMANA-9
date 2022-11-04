@@ -126,6 +126,4 @@ public class ListaNumeros {
             System.out.println("No existe valores en la lista");
         }
     }
-    
-    
 }
